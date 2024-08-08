@@ -1,0 +1,44 @@
+body {
+    margin: 0px auto;
+}
+a:hover {
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+a:visited {
+    color: red;
+}
+.heroone {
+    background-color: aquamarine;
+    padding: 50px;
+    text-align: center;
+}
+p {
+    text-align: justify;
+}
+.d-flex {
+    align-items: center;
+}
+
+.heroone h6 {
+    text-align: justify;
+}
+.herotwo {
+    padding: 50px;
+    text-align: center;
+}
+img {
+    height: 512px;
+    width: 512px;
+}
+.sani {
+    background-color: #99c24c;
+    padding: 50px;
+    text-align: center;
+}
+.sticky {
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+}
